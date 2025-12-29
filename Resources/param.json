@@ -1,17 +1,17 @@
 [
   {
-    "p_rel_url": "alfirajib/AzureProjectWithCICD/blob/main/Resources/athletes.csv",
-    "p_folder": "athletes",
-    "p_file": "athletes.parquet"
+    "rel_url": "alfirajib/AzureProjectWithCICD/blob/main/Resources/athletes.csv",
+    "folder": "athletes",
+    "file": "athletes.parquet"
   },
   {
-    "p_rel_url": "alfirajib/AzureProjectWithCICD/blob/main/Resources/coaches.csv",
-    "p_folder": "coaches",
-    "p_file": "coaches.parquet"
+    "rel_url": "alfirajib/AzureProjectWithCICD/blob/main/Resources/coaches.csv",
+    "folder": "coaches",
+    "file": "coaches.parquet"
   },
   {
-    "p_rel_url": "alfirajib/AzureProjectWithCICD/blob/main/Resources/events.csv",
-    "p_folder": "events",
-    "p_file": "events.parquet"
+    "rel_url": "alfirajib/AzureProjectWithCICD/blob/main/Resources/events.csv",
+    "folder": "events",
+    "file": "events.parquet"
   }
 ]
