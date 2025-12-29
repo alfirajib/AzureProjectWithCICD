@@ -1,16 +1,16 @@
 [
   {
-    "rel_url": "alfirajib/AzureProjectWithCICD/blob/main/Resources/athletes.csv",
+    "rel_url": "Resources/athletes.csv",
     "folder": "athletes",
     "file": "athletes.parquet"
   },
   {
-    "rel_url": "alfirajib/AzureProjectWithCICD/blob/main/Resources/coaches.csv",
+    "rel_url": "Resources/coaches.csv",
     "folder": "coaches",
     "file": "coaches.parquet"
   },
   {
-    "rel_url": "alfirajib/AzureProjectWithCICD/blob/main/Resources/events.csv",
+    "rel_url": "Resources/events.csv",
     "folder": "events",
     "file": "events.parquet"
   }
